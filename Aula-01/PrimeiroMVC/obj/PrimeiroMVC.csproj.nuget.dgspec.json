@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/DS1/Documents/Aulas MVC/2026-MVC/Aula-01/PrimeiroMVC/PrimeiroMVC.csproj": {}
+    "/Users/DS1/Documents/MVC-2026/MVC-2026/Aula-01/PrimeiroMVC/PrimeiroMVC.csproj": {}
   },
   "projects": {
-    "/Users/DS1/Documents/Aulas MVC/2026-MVC/Aula-01/PrimeiroMVC/PrimeiroMVC.csproj": {
+    "/Users/DS1/Documents/MVC-2026/MVC-2026/Aula-01/PrimeiroMVC/PrimeiroMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/DS1/Documents/Aulas MVC/2026-MVC/Aula-01/PrimeiroMVC/PrimeiroMVC.csproj",
+        "projectUniqueName": "/Users/DS1/Documents/MVC-2026/MVC-2026/Aula-01/PrimeiroMVC/PrimeiroMVC.csproj",
         "projectName": "PrimeiroMVC",
-        "projectPath": "/Users/DS1/Documents/Aulas MVC/2026-MVC/Aula-01/PrimeiroMVC/PrimeiroMVC.csproj",
+        "projectPath": "/Users/DS1/Documents/MVC-2026/MVC-2026/Aula-01/PrimeiroMVC/PrimeiroMVC.csproj",
         "packagesPath": "/Users/DS1/.nuget/packages/",
-        "outputPath": "/Users/DS1/Documents/Aulas MVC/2026-MVC/Aula-01/PrimeiroMVC/obj/",
+        "outputPath": "/Users/DS1/Documents/MVC-2026/MVC-2026/Aula-01/PrimeiroMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/DS1/.nuget/NuGet/NuGet.Config"
