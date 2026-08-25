@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Leiaute")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1b13f96cce8d6d17c1148672b305695c9495287")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81d14ac60938123641bd156b71046f59d86cddb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Leiaute")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Leiaute")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
